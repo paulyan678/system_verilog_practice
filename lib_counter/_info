@@ -1,0 +1,117 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/paul.yan/systemVerilogPractice
+T_opt
+!s110 1698333569
+V<U9G2=loK64<naedKOJB31
+Z2 04 14 4 work tb_1_bit_count fast 0
+=1-149ecfcec5e6-653a8381-98d93-9cc
+R0
+Z3 !s12b OEM100
+Z4 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work lib_counter -L /home/paul.yan/systemVerilogPractice/lib_counter
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2023.2;77
+R1
+T_opt1
+!s110 1698333747
+VZ6YjbQR=2T02?LnG``j_U3
+R2
+=1-149ecfcec5e6-653a8433-6a507-c1d
+R0
+R3
+R4
+o-quiet -auto_acc_if_foreign -work lib_counter +acc
+R5
+n@_opt1
+R6
+vFullAdder
+Z7 2tb_1_bit_count.sv|1_bit_counter.sv|full_adder.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1698333401
+!i10b 1
+!s100 ^M440j4KAZR<SmGYe8PTA0
+Imcl7K5>`RXD83@T]fo3VC0
+S1
+R1
+w1698267784
+8full_adder.sv
+Ffull_adder.sv
+!i122 1
+L0 1 9
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2023.2;77
+r1
+!s85 0
+31
+Z12 !s108 1698333401.000000
+Z13 !s107 full_adder.sv|1_bit_counter.sv|tb_1_bit_count.sv|
+Z14 !s90 tb_1_bit_count.sv|1_bit_counter.sv|full_adder.sv|-work|lib_counter|
+!i113 0
+Z15 o-work lib_counter -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@full@adder
+vOneBitCounter
+R7
+R8
+R9
+!i10b 1
+!s100 VE[?]9m0NDLVZKhBh2KhK2
+IR?0MbQ>mE@S>1lL7:nggh0
+S1
+R1
+w1698333322
+81_bit_counter.sv
+F1_bit_counter.sv
+!i122 1
+L0 1 23
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@one@bit@counter
+vtb_1_bit_count
+R7
+R8
+R9
+!i10b 1
+!s100 b`M@N4c4:z>Rg[J[Bd3dH0
+IK[@WMZl]1[AFXThTlJj3E1
+S1
+R1
+w1698333338
+8tb_1_bit_count.sv
+Ftb_1_bit_count.sv
+!i122 1
+L0 1 30
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
